@@ -42,6 +42,8 @@ Las consultas a realizar son:
 
 + Se procedió a realizar el análisis exploratorio de los datos.
 
++ El proceso se realizó en un documento jupiter notebook que forma parte de este repositorio.
+
 + No se encontraron titulos duplicados en la misma plataforma.
 
 + Se agregó una columna a cada dataframe con el dato de la plataforma: amazon, netflix, disney, hulu.
@@ -95,6 +97,6 @@ Aquí el video donde se muestra el trabajo realizado y en funcionamiento.
 
 ### **5. Deployment en Mogenius**
 
-Se procedió al deployment en la plataforma Mogenius:
-
+Se procedió al deployment en la plataforma Mogenius:<br/>
+<a href="https://api-plataforma-prod-api-plataforma-de-videos-9do08e.mo2.mogenius.io/docs" target="_blank">https://api-plataforma-prod-api-plataforma-de-videos-9do08e.mo2.mogenius.io/docs</a>
 
